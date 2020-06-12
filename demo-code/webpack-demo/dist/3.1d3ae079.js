@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{5:function(s,a,i){"use strict";i.r(a),a.default={message:"this is dynamic data"}}}]);
