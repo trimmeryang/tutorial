@@ -1,5 +1,5 @@
 {
-  "name": "08-webpack-dll-demo",
+  "name": "webpack-dll-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

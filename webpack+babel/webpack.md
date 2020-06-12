@@ -1,8 +1,8 @@
 - [概念](#概念)
-  * [module/chunk/bundle](#module-chunk-bundle)
-  * [loader/plugin](#loader-plugin)
-  * [常见的loader/plugin](#常见的loader-plugin)
-  * [babel和webpack的区别](#babel-webpack的区别)
+  * [module/chunk/bundle](#module/chunk/bundle)
+  * [loader/plugin](#loader/plugin)
+  * [常见的loader/plugin](#常见的loader/plugin)
+  * [babel和webpack的区别](#babel和webpack的区别)
 - [配置](#配置)
   * [拆分配置和merge](#拆分配置和merge)
   * [启动本地服务](#启动本地服务)
@@ -33,7 +33,7 @@
   * [IngorePlugin](#IngorePlugin)
   * [使用production](#使用production)
     + [ES6 Module 和 Commonjs 的区别](#es6-module-和-commonjs-的区别)
-  * [scope hosting](#scope hosting)
+  * [scope hosting](#scope-hosting)
   
 # 概念
 ## module/chunk/bundle
