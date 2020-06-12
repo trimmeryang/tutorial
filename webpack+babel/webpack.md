@@ -1,7 +1,7 @@
 - [概念](#概念)
-  * [module/chunk/bundle](#module/chunk/bundle)
-  * [loader/plugin](#loader/plugin)
-  * [常见的loader/plugin](#常见的loader/plugin)
+  * [module和chunk和bundle](#module和chunk和bundle)
+  * [loader和plugin](#loader和plugin)
+  * [常见的loader和plugin](#常见的loader和plugin)
   * [babel和webpack的区别](#babel和webpack的区别)
 - [配置](#配置)
   * [拆分配置和merge](#拆分配置和merge)
@@ -36,15 +36,15 @@
   * [scope hosting](#scope-hosting)
   
 # 概念
-## module/chunk/bundle
+## module和chunk和bundle
 * module -- 各源码文件， webpack中一切都是模块
 * chuck -- 多模块的合成，entry import() splitChunk
 * bundle -- 最终输出文件
-## loader/plugin
+## loader和plugin
 * loader模块转换器： less->css
 * plugin用来扩展插件，HtmlWebpackPlugin
 
-## 常见的loader/plugin
+## 常见的loader和plugin
 https://www.webpackjs.com/loaders/
 https://www.webpackjs.com/plugins/
 
