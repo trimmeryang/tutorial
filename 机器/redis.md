@@ -6,6 +6,9 @@
 #　Redis
 https://zhuanlan.zhihu.com/p/95795944
 
+面试题目:
+https://www.jianshu.com/p/c7c352cb14fe
+
 * 采用单进程 单线程，不需要锁
 * 单个实例不要存太大文件， 4-5g一个实例
 * 单核的，不能发挥CPU多核的优势
