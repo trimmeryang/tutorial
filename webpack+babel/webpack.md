@@ -36,6 +36,7 @@
   * [scope hosting](#scope-hosting)
   
 # 概念
+https://mp.weixin.qq.com/s?__biz=MzUzNjk5MTE1OQ==&mid=2247502047&idx=1&sn=0f8090c9ef8b7276caaa56844847c3dc&chksm=faef4c07cd98c511751a38fcaa53cfd1e53919b8b5643020b11beca6232272735cff7ad13b65&mpshare=1&scene=1&srcid=0430fu9MWdVqjJpXkuyn1uvB&sharer_sharetime=1621307457563&sharer_shareid=9c4e752d90da2c99530bb8f3b39196f7&exportkey=AQoQASbLtI0Ef0rrP%2FVrK4Q%3D&pass_ticket=Te92jauBmB7ga1ptZ%2FUdRw2upqC%2BgOnzYq76oOZl682FN8rUTO112uJcHtHAP3X%2F&wx_header=0#rd
 ## module和chunk和bundle
 * module -- 各源码文件， webpack中一切都是模块
 * chuck -- 多模块的合成，entry import() splitChunk
